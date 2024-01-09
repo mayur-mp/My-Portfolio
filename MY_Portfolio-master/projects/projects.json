@@ -1,0 +1,61 @@
+[
+  
+ {
+    "name": "TEMP CONVERTER",
+    "desc": "simple temperature conversion page.",
+    "image": "1",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": "https://github.com/mayur-mp/oibsip_task3"
+    }
+  },
+
+  {
+    "name": "COFEE APP UI",
+    "desc": "It is the basic UI design of coffe Ordering app ",
+    "image": "cofee",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.figma.com/file/kodF4jxR6llQYWemLGbt9C/coffeshop-app-wireframe?type=design&node-id=0%3A1&t=E5C8JPJhvMCXSuag-1 ",
+      "code": "https://www.figma.com/file/kodF4jxR6llQYWemLGbt9C/coffeshop-app-wireframe?type=design&node-id=0%3A1&t=E5C8JPJhvMCXSuag-1"
+    }
+  },
+
+  {
+    "name": "CAR RENTAL PHP ",
+    "desc": "Car rental website designed for car bookings.",
+    "image": "car",
+    "category": "PHP",
+    "links": {
+      "view": "",
+      "code": "https://github.com/mayur-mp/Car_rental_project"
+    }
+  },
+  {
+    "name": "ART GALLERY",
+    "desc": "Online Art Gallery is the project bas on the digital museum  made using html css, php,bootstrap,jquery,ajax,javascript.",
+    "image": "page 1",
+    "category": "PHP",
+    "links": {
+      "view": "",
+      "code": "https://github.com/mayur-mp/ART_GALLERY"
+    }
+  },
+ 
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/mayur-mp/potrtfolio1.git"
+    }
+  }
+ 
+ 
+  
+    
+]
